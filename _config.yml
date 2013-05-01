@@ -1,0 +1,10 @@
+auto: true
+server: true
+baseurl:
+permalink: /:title
+name: 'Moda Materna'
+description: 'Moda Materna'
+markdown: rdiscount
+exclude:
+- .gitignore
+- README.md
